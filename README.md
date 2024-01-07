@@ -15,6 +15,15 @@ The Wallpapers App is a Flutter-based mobile application that allows users to di
 ![WhatsApp Image 2024-01-07 at 23 43 36 (1)](https://github.com/Shital1471/wallpapers_app/assets/114605853/3e889f03-0840-47f9-ba25-9288e918bd91)
 ![WhatsApp Image 2024-01-07 at 23 43 36 (2)](https://github.com/Shital1471/wallpapers_app/assets/114605853/e6bbabdc-7550-467a-94fe-cb3ec62b74f1)
 
+### Video
+
+
+https://github.com/Shital1471/wallpapers_app/assets/114605853/5039bea1-aa61-40e3-8bd9-c036a7bd4ebc
+
+
+
+
+
 ### Installation
 
 1. Clone the repository: `git clone`
